@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ON 동아리 나가겠습니다
 <!--
 **khcho0125/khcho0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
