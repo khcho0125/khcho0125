@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 안녕하세요 인공지능 개발자 조경현 입니다.
+저는 인공지능이 너무 좋아요 사랑해요 히히 
+인공지능 너무 좋아
+앙 기모띠~
 <!--
 **khcho0125/khcho0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
