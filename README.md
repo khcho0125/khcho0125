@@ -1,4 +1,4 @@
-### 안녕하세요 backend 개발자 조경현 입니다.
+### 안녕하세요🌱 backend 개발자 🌱 조경현 입니다.
 <!--
 **khcho0125/khcho0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
