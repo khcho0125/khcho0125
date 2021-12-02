@@ -20,6 +20,6 @@
 <br/>
 <p align='center'>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khcho0125"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khcho0125&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khcho0125&layout=compact&hide=Dockerfile"/>
 
 </p>
