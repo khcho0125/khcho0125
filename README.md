@@ -22,5 +22,8 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khcho0125"/>
   <img src="http://mazandi.herokuapp.com/api?handle=khcho0125&theme=warm"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khcho0125&layout=compact&hide=Dockerfile"/>
-
+</p>
+<h3 align='center'>🔗 velog </h3>
+<p align='center'>
+  <a href="https://velog.io/@khcho050125"><img src="https://img.shields.io/badge/-Velog-20c997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
