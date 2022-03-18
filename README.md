@@ -1,4 +1,3 @@
-<h3 align='center'> 안녕하세요 🌱 backend 개발자 조경현 입니다. </h3>
 <br/>
 <h3 align='center'>📚 skill </h3>
 <p align='center'>
