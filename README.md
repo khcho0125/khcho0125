@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Even%20now,%20I'm%20endlessly%20trying&fontSize=60&animation=fadeIn&fontColor=93F9B9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Even%20now,%20I'm%20endlessly%20trying&fontSize=45&animation=fadeIn&fontColor=93F9B9" />
 <br/>
 <h3 align='center'>📚 skill </h3>
 <p align='center'>
